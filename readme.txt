@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Difference with working directory and repository.
 Difference with local and working directory.
 Git tracks changes of files.
+Git new.
