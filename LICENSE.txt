@@ -1,0 +1,2 @@
+Hello Git.
+Today is 2017/4/3 and i am learning Working Directory and Repository of Git.
